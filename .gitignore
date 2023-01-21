@@ -1,3 +1,9 @@
 
 *.png
 *.jpg
+*.keras
+*.h5
+*.pb
+*.data-00000-of-00001
+*.index
+.ipynb_checkpoints/main-jvsc-0c0d5206-9027-4f6b-b371-1b96026afb86cdd48765-02b7-4ed2-80d7-78d5602d0fc1-checkpoint.ipynb
